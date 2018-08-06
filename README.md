@@ -1,5 +1,5 @@
 # cubizer-project
-A Java utility for creating 3D models out of cubes, and using them to create 2D sprite animations from different angles for games.
+A Java utility for creating 3D models out of cubes, and using them to create 2D sprite animations from different angles for games. Please note that I did not use any existing 3D library or toolkit to render the 3D objects; I developed and rendered everything using 2D drawings from scratch.
 
 This is a complete Java project which can be opened in the latest NetBeans IDE. It can also be run by executing 'Cubizer.jar' in the 'dist' directory.
 
@@ -17,3 +17,6 @@ Drag mouse right/left to move or rotate on Y axis; up/down to move or rotate on 
 Press spacebar to place a cube at the current location.
 
 There are so many controls and features of this program which I do not have time to document right now. Please experiment to figure it out!
+
+Notes:
+- Try the "Load 3D Model (+submodels)" function from the File menu, and use the dialog to open "adam_chest.czmod" from the 'models' directory. Then use "Animation -> Load Animation File" to open the "adam.czani" animation from the "anims" folder. Now, in the program, change to the "Animations" tab, and click on the different directions/poses...
