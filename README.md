@@ -1,7 +1,7 @@
 # cubizer-project
 A Java utility for creating 3D models out of cubes, and using them to create 2D sprite animations from different angles for games.
 
-This is a complete Java project which can be opened in the latest NetBeans IDE.
+This is a complete Java project which can be opened in the latest NetBeans IDE. It can also be run by executing 'Cubizer.jar' in the 'dist' directory.
 
 Controls:
 Use left/right arrow keys to move cube selector on the X axis; up/down arrow keys to move on the Y axis; +/- keys to move on the Z axis (requires NumPad).
