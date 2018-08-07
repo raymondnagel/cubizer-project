@@ -1,0 +1,10 @@
+0.0,0.0,0.0
+Parent:adam_rightshin
+adam_rightfoot#0	-10.0,210.0,-10.0	51,51,51	0,0,0	1.0	true	true	true
+adam_rightfoot#1	-20.0,210.0,-10.0	51,51,51	0,0,0	1.0	false	true	true
+adam_rightfoot#2	-20.0,210.0,0.0	51,51,51	0,0,0	1.0	false	true	true
+adam_rightfoot#3	-10.0,210.0,0.0	51,51,51	0,0,0	1.0	false	true	true
+adam_rightfoot#4	-10.0,210.0,-20.0	51,51,51	0,0,0	1.0	false	true	true
+adam_rightfoot#5	-10.0,210.0,-30.0	51,51,51	0,0,0	1.0	false	true	true
+adam_rightfoot#6	-20.0,210.0,-20.0	51,51,51	0,0,0	1.0	false	true	true
+adam_rightfoot#7	-20.0,210.0,-30.0	51,51,51	0,0,0	1.0	false	true	true

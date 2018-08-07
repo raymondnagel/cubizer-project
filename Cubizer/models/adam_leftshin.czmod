@@ -1,0 +1,39 @@
+0.0,0.0,0.0
+Parent:adam_leftthigh
+Child:adam_leftfoot
+adam_leftshin#0	20.0,160.0,-10.0	0,102,153	0,0,0	1.0	true	true	true
+adam_leftshin#1	30.0,160.0,-10.0	0,102,153	0,0,0	1.0	false	true	true
+adam_leftshin#2	30.0,160.0,-20.0	0,102,153	0,0,0	1.0	false	true	true
+adam_leftshin#3	20.0,160.0,-20.0	0,102,153	0,0,0	1.0	false	true	true
+adam_leftshin#4	10.0,160.0,-20.0	0,102,153	0,0,0	1.0	false	true	true
+adam_leftshin#5	10.0,160.0,-10.0	0,102,153	0,0,0	1.0	false	true	true
+adam_leftshin#6	10.0,160.0,0.0	0,102,153	0,0,0	1.0	false	true	true
+adam_leftshin#7	20.0,160.0,0.0	0,102,153	0,0,0	1.0	false	true	true
+adam_leftshin#8	30.0,160.0,0.0	0,102,153	0,0,0	1.0	false	true	true
+adam_leftshin#9	10.0,170.0,-20.0	0,102,153	0,0,0	1.0	false	true	true
+adam_leftshin#10	20.0,170.0,-20.0	0,102,153	0,0,0	1.0	false	true	true
+adam_leftshin#11	30.0,170.0,-20.0	0,102,153	0,0,0	1.0	false	true	true
+adam_leftshin#12	30.0,170.0,-10.0	0,102,153	0,0,0	1.0	false	true	true
+adam_leftshin#13	20.0,170.0,-10.0	0,102,153	0,0,0	1.0	false	true	true
+adam_leftshin#14	10.0,170.0,-10.0	0,102,153	0,0,0	1.0	false	true	true
+adam_leftshin#15	10.0,170.0,0.0	0,102,153	0,0,0	1.0	false	true	true
+adam_leftshin#16	20.0,170.0,0.0	0,102,153	0,0,0	1.0	false	true	true
+adam_leftshin#17	30.0,170.0,0.0	0,102,153	0,0,0	1.0	false	true	true
+adam_leftshin#18	20.0,180.0,-10.0	0,102,153	0,0,0	1.0	false	true	true
+adam_leftshin#19	10.0,180.0,-10.0	0,102,153	0,0,0	1.0	false	true	true
+adam_leftshin#20	10.0,180.0,0.0	0,102,153	0,0,0	1.0	false	true	true
+adam_leftshin#21	20.0,180.0,0.0	0,102,153	0,0,0	1.0	false	true	true
+adam_leftshin#22	30.0,180.0,-10.0	0,102,153	0,0,0	1.0	false	true	true
+adam_leftshin#23	20.0,180.0,-20.0	0,102,153	0,0,0	1.0	false	true	true
+adam_leftshin#24	20.0,190.0,-10.0	0,102,153	0,0,0	1.0	false	true	true
+adam_leftshin#25	10.0,190.0,-10.0	0,102,153	0,0,0	1.0	false	true	true
+adam_leftshin#26	10.0,190.0,0.0	0,102,153	0,0,0	1.0	false	true	true
+adam_leftshin#27	20.0,190.0,0.0	0,102,153	0,0,0	1.0	false	true	true
+adam_leftshin#28	20.0,200.0,0.0	0,102,153	0,0,0	1.0	false	true	true
+adam_leftshin#29	10.0,200.0,0.0	0,102,153	0,0,0	1.0	false	true	true
+adam_leftshin#30	10.0,200.0,-10.0	0,102,153	0,0,0	1.0	false	true	true
+adam_leftshin#31	20.0,200.0,-10.0	0,102,153	0,0,0	1.0	false	true	true
+adam_leftshin#32	20.0,150.0,-10.0	0,102,153	0,0,0	1.0	false	true	true
+adam_leftshin#33	10.0,150.0,-10.0	0,102,153	0,0,0	1.0	false	true	true
+adam_leftshin#34	20.0,150.0,0.0	0,102,153	0,0,0	1.0	false	true	true
+adam_leftshin#35	10.0,150.0,0.0	0,102,153	0,0,0	1.0	false	true	true

@@ -1,0 +1,41 @@
+0.0,0.0,0.0
+Parent:adam_chest
+Child:adam_rightelbow
+adam_rightarm#0	-60.0,20.0,10.0	0,102,153	0,0,0	1.0	true	true	true
+adam_rightarm#1	-60.0,20.0,20.0	0,102,153	0,0,0	1.0	false	true	true
+adam_rightarm#2	-60.0,10.0,20.0	0,102,153	0,0,0	1.0	false	true	true
+adam_rightarm#3	-60.0,20.0,0.0	0,102,153	0,0,0	1.0	false	true	true
+adam_rightarm#4	-60.0,10.0,0.0	0,102,153	0,0,0	1.0	false	true	true
+adam_rightarm#5	-60.0,10.0,10.0	0,102,153	0,0,0	1.0	false	true	true
+adam_rightarm#6	-60.0,20.0,30.0	0,102,153	0,0,0	1.0	false	true	true
+adam_rightarm#7	-60.0,30.0,30.0	0,102,153	0,0,0	1.0	false	true	true
+adam_rightarm#8	-60.0,30.0,20.0	0,102,153	0,0,0	1.0	false	true	true
+adam_rightarm#9	-60.0,30.0,10.0	0,102,153	0,0,0	1.0	false	true	true
+adam_rightarm#10	-60.0,30.0,0.0	0,102,153	0,0,0	1.0	false	true	true
+adam_rightarm#11	-60.0,30.0,-10.0	0,102,153	0,0,0	1.0	false	true	true
+adam_rightarm#12	-60.0,20.0,-10.0	0,102,153	0,0,0	1.0	false	true	true
+adam_rightarm#13	-60.0,40.0,0.0	0,102,153	0,0,0	1.0	false	true	true
+adam_rightarm#14	-60.0,40.0,10.0	0,102,153	0,0,0	1.0	false	true	true
+adam_rightarm#15	-60.0,40.0,20.0	0,102,153	0,0,0	1.0	false	true	true
+adam_rightarm#16	-60.0,50.0,20.0	0,102,153	0,0,0	1.0	false	true	true
+adam_rightarm#17	-60.0,50.0,10.0	0,102,153	0,0,0	1.0	false	true	true
+adam_rightarm#18	-60.0,50.0,0.0	0,102,153	0,0,0	1.0	false	true	true
+adam_rightarm#19	-60.0,40.0,30.0	0,102,153	0,0,0	1.0	false	true	true
+adam_rightarm#20	-60.0,60.0,0.0	0,102,153	0,0,0	1.0	false	true	true
+adam_rightarm#21	-60.0,60.0,10.0	0,102,153	0,0,0	1.0	false	true	true
+adam_rightarm#22	-60.0,60.0,20.0	0,102,153	0,0,0	1.0	false	true	true
+adam_rightarm#23	-70.0,20.0,10.0	0,102,153	0,0,0	1.0	false	true	true
+adam_rightarm#24	-70.0,20.0,20.0	0,102,153	0,0,0	1.0	false	true	true
+adam_rightarm#25	-70.0,20.0,0.0	0,102,153	0,0,0	1.0	false	true	true
+adam_rightarm#26	-70.0,30.0,0.0	0,102,153	0,0,0	1.0	false	true	true
+adam_rightarm#27	-70.0,30.0,10.0	0,102,153	0,0,0	1.0	false	true	true
+adam_rightarm#28	-70.0,30.0,20.0	0,102,153	0,0,0	1.0	false	true	true
+adam_rightarm#29	-70.0,40.0,20.0	0,102,153	0,0,0	1.0	false	true	true
+adam_rightarm#30	-70.0,40.0,10.0	0,102,153	0,0,0	1.0	false	true	true
+adam_rightarm#31	-70.0,40.0,0.0	0,102,153	0,0,0	1.0	false	true	true
+adam_rightarm#32	-70.0,50.0,0.0	0,102,153	0,0,0	1.0	false	true	true
+adam_rightarm#33	-70.0,50.0,10.0	0,102,153	0,0,0	1.0	false	true	true
+adam_rightarm#34	-70.0,50.0,20.0	0,102,153	0,0,0	1.0	false	true	true
+adam_rightarm#35	-70.0,60.0,20.0	0,102,153	0,0,0	1.0	false	true	true
+adam_rightarm#36	-70.0,60.0,10.0	0,102,153	0,0,0	1.0	false	true	true
+adam_rightarm#37	-70.0,60.0,0.0	0,102,153	0,0,0	1.0	false	true	true

@@ -1,0 +1,23 @@
+0.0,0.0,0.0
+Parent:adam_leftarm
+adam_leftelbow#0	60.0,70.0,10.0	0,102,153	0,0,0	1.0	true	true	true
+adam_leftelbow#1	60.0,70.0,0.0	0,102,153	0,0,0	1.0	false	true	true
+adam_leftelbow#2	70.0,70.0,0.0	0,102,153	0,0,0	1.0	false	true	true
+adam_leftelbow#3	70.0,70.0,10.0	0,102,153	0,0,0	1.0	false	true	true
+adam_leftelbow#4	70.0,80.0,10.0	0,102,153	0,0,0	1.0	false	true	true
+adam_leftelbow#5	60.0,80.0,10.0	0,102,153	0,0,0	1.0	false	true	true
+adam_leftelbow#6	60.0,80.0,0.0	0,102,153	0,0,0	1.0	false	true	true
+adam_leftelbow#7	70.0,80.0,0.0	0,102,153	0,0,0	1.0	false	true	true
+adam_leftelbow#8	70.0,90.0,0.0	0,102,153	0,0,0	1.0	false	true	true
+adam_leftelbow#9	60.0,90.0,0.0	0,102,153	0,0,0	1.0	false	true	true
+adam_leftelbow#10	60.0,90.0,10.0	0,102,153	0,0,0	1.0	false	true	true
+adam_leftelbow#11	70.0,90.0,10.0	0,102,153	0,0,0	1.0	false	true	true
+adam_leftelbow#12	70.0,100.0,10.0	255,204,153	0,0,0	1.0	false	true	true
+adam_leftelbow#13	70.0,100.0,0.0	255,204,153	0,0,0	1.0	false	true	true
+adam_leftelbow#14	70.0,110.0,0.0	255,204,153	0,0,0	1.0	false	true	true
+adam_leftelbow#15	70.0,110.0,10.0	255,204,153	0,0,0	1.0	false	true	true
+adam_leftelbow#16	70.0,100.0,-10.0	255,204,153	0,0,0	1.0	false	true	true
+adam_leftelbow#17	60.0,100.0,0.0	255,204,153	0,0,0	1.0	false	true	true
+adam_leftelbow#18	60.0,100.0,10.0	255,204,153	0,0,0	1.0	false	true	true
+adam_leftelbow#19	70.0,120.0,10.0	255,204,153	0,0,0	1.0	false	true	true
+adam_leftelbow#20	70.0,120.0,0.0	255,204,153	0,0,0	1.0	false	true	true

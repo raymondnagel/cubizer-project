@@ -1,0 +1,39 @@
+0.0,0.0,0.0
+Parent:adam_rightthigh
+Child:adam_rightfoot
+adam_rightshin#0	-20.0,160.0,-10.0	0,102,153	0,0,0	1.0	true	true	true
+adam_rightshin#1	-30.0,160.0,-10.0	0,102,153	0,0,0	1.0	false	true	true
+adam_rightshin#2	-30.0,160.0,-20.0	0,102,153	0,0,0	1.0	false	true	true
+adam_rightshin#3	-20.0,160.0,-20.0	0,102,153	0,0,0	1.0	false	true	true
+adam_rightshin#4	-10.0,160.0,-20.0	0,102,153	0,0,0	1.0	false	true	true
+adam_rightshin#5	-10.0,160.0,-10.0	0,102,153	0,0,0	1.0	false	true	true
+adam_rightshin#6	-10.0,160.0,0.0	0,102,153	0,0,0	1.0	false	true	true
+adam_rightshin#7	-20.0,160.0,0.0	0,102,153	0,0,0	1.0	false	true	true
+adam_rightshin#8	-30.0,160.0,0.0	0,102,153	0,0,0	1.0	false	true	true
+adam_rightshin#9	-10.0,170.0,-20.0	0,102,153	0,0,0	1.0	false	true	true
+adam_rightshin#10	-20.0,170.0,-20.0	0,102,153	0,0,0	1.0	false	true	true
+adam_rightshin#11	-30.0,170.0,-20.0	0,102,153	0,0,0	1.0	false	true	true
+adam_rightshin#12	-30.0,170.0,-10.0	0,102,153	0,0,0	1.0	false	true	true
+adam_rightshin#13	-20.0,170.0,-10.0	0,102,153	0,0,0	1.0	false	true	true
+adam_rightshin#14	-10.0,170.0,-10.0	0,102,153	0,0,0	1.0	false	true	true
+adam_rightshin#15	-10.0,170.0,0.0	0,102,153	0,0,0	1.0	false	true	true
+adam_rightshin#16	-20.0,170.0,0.0	0,102,153	0,0,0	1.0	false	true	true
+adam_rightshin#17	-30.0,170.0,0.0	0,102,153	0,0,0	1.0	false	true	true
+adam_rightshin#18	-20.0,180.0,-10.0	0,102,153	0,0,0	1.0	false	true	true
+adam_rightshin#19	-10.0,180.0,-10.0	0,102,153	0,0,0	1.0	false	true	true
+adam_rightshin#20	-10.0,180.0,0.0	0,102,153	0,0,0	1.0	false	true	true
+adam_rightshin#21	-20.0,180.0,0.0	0,102,153	0,0,0	1.0	false	true	true
+adam_rightshin#22	-30.0,180.0,-10.0	0,102,153	0,0,0	1.0	false	true	true
+adam_rightshin#23	-20.0,180.0,-20.0	0,102,153	0,0,0	1.0	false	true	true
+adam_rightshin#24	-20.0,190.0,-10.0	0,102,153	0,0,0	1.0	false	true	true
+adam_rightshin#25	-10.0,190.0,-10.0	0,102,153	0,0,0	1.0	false	true	true
+adam_rightshin#26	-10.0,190.0,0.0	0,102,153	0,0,0	1.0	false	true	true
+adam_rightshin#27	-20.0,190.0,0.0	0,102,153	0,0,0	1.0	false	true	true
+adam_rightshin#28	-20.0,200.0,0.0	0,102,153	0,0,0	1.0	false	true	true
+adam_rightshin#29	-10.0,200.0,0.0	0,102,153	0,0,0	1.0	false	true	true
+adam_rightshin#30	-10.0,200.0,-10.0	0,102,153	0,0,0	1.0	false	true	true
+adam_rightshin#31	-20.0,200.0,-10.0	0,102,153	0,0,0	1.0	false	true	true
+adam_rightshin#32	-20.0,150.0,-10.0	0,102,153	0,0,0	1.0	false	true	true
+adam_rightshin#33	-10.0,150.0,-10.0	0,102,153	0,0,0	1.0	false	true	true
+adam_rightshin#34	-10.0,150.0,0.0	0,102,153	0,0,0	1.0	false	true	true
+adam_rightshin#35	-20.0,150.0,0.0	0,102,153	0,0,0	1.0	false	true	true

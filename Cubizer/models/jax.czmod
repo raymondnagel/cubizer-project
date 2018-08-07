@@ -1,0 +1,21 @@
+237.0,204.0,0.0
+Parent:
+default#0	150.0,0.0,0.0	221,221,221	0,0,0	1.0	true	true	true
+default#1	150.0,-10.0,0.0	255,255,0	0,0,0	1.0	false	true	true
+default#2	150.0,-20.0,0.0	255,255,0	0,0,0	1.0	false	true	true
+default#3	150.0,-30.0,0.0	255,255,0	0,0,0	1.0	false	true	true
+default#4	150.0,10.0,0.0	255,0,255	0,0,0	1.0	false	true	true
+default#5	150.0,20.0,0.0	255,0,255	0,0,0	1.0	false	true	true
+default#6	150.0,30.0,0.0	255,0,255	0,0,0	1.0	false	true	true
+default#7	140.0,0.0,0.0	255,0,0	0,0,0	1.0	false	true	true
+default#8	130.0,0.0,0.0	255,0,0	0,0,0	1.0	false	true	true
+default#9	120.0,0.0,0.0	255,0,0	0,0,0	1.0	false	true	true
+default#10	160.0,0.0,0.0	0,0,255	0,0,0	1.0	false	true	true
+default#11	170.0,0.0,0.0	0,0,255	0,0,0	1.0	false	true	true
+default#12	180.0,0.0,0.0	0,0,255	0,0,0	1.0	false	true	true
+default#13	150.0,0.0,-10.0	0,255,0	0,0,0	1.0	false	true	true
+default#14	150.0,0.0,-20.0	0,255,0	0,0,0	1.0	false	true	true
+default#15	150.0,0.0,-30.0	0,255,0	0,0,0	1.0	false	true	true
+default#16	150.0,0.0,10.0	255,128,0	0,0,0	1.0	false	true	true
+default#17	150.0,0.0,20.0	255,128,0	0,0,0	1.0	false	true	true
+default#18	150.0,0.0,30.0	255,128,0	0,0,0	1.0	false	true	true

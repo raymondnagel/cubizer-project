@@ -1,0 +1,17 @@
+0.0,0.0,0.0
+Parent:chest
+right_arm#1	120.0,10.0,-10.0	255,204,153	0,0,0	1.0	true	true	true
+right_arm#1	120.0,10.0,-10.0	255,204,153	0,0,0	1.0	true	true	true
+right_arm#2	120.0,10.0,-20.0	255,204,153	0,0,0	1.0	false	true	true
+right_arm#3	120.0,20.0,-20.0	255,204,153	0,0,0	1.0	false	true	true
+right_arm#4	120.0,20.0,-10.0	255,204,153	0,0,0	1.0	false	true	true
+right_arm#5	110.0,20.0,-20.0	255,204,153	0,0,0	1.0	false	true	true
+right_arm#6	110.0,30.0,-20.0	255,204,153	0,0,0	1.0	false	true	true
+right_arm#7	120.0,30.0,-20.0	255,204,153	0,0,0	1.0	false	true	true
+right_arm#8	110.0,20.0,-10.0	255,204,153	0,0,0	1.0	false	true	true
+right_arm#9	110.0,30.0,-10.0	255,204,153	0,0,0	1.0	false	true	true
+right_arm#10	120.0,30.0,-10.0	255,204,153	0,0,0	1.0	false	true	true
+right_arm#11	120.0,40.0,-10.0	255,204,153	0,0,0	1.0	false	true	true
+right_arm#12	110.0,40.0,-10.0	255,204,153	0,0,0	1.0	false	true	true
+right_arm#13	110.0,40.0,-20.0	255,204,153	0,0,0	1.0	false	true	true
+right_arm#14	120.0,40.0,-20.0	255,204,153	0,0,0	1.0	false	true	true
